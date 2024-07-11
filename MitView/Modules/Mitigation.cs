@@ -124,6 +124,8 @@ namespace MitView.Modules
             { 2708, new Mitigation(2708, 15, 0) }, // Aquaveil
             { 2711, new Mitigation(2711, 10, 0) }, // Desperate Measures (Expedient)
             { 3003, new Mitigation(3003, 10, 0) }, // Holos
+            { 3832, new Mitigation(3832, 40, 0) }, // Damnation
+            { 3945, new Mitigation(3945, 10, 0) }, // Thunder of the Rroneek (npc mit)
         };
 
         public static bool IsMitigation(uint id)
